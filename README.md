@@ -4,6 +4,9 @@
 * What is A/B testing?
 > A/B testing is a basic randomized control experiment.A/B testing—also called split testing or bucket testing—compares the performance of two versions of content to see which one appeals more to visitors/viewers. It tests a control (A) version against a variant (B) version to measure which one is most successful based on your key metrics. A/B testing is a conversion rate optimization (CRO) technique that businesses use to boost conversions.
 
+![](https://github.com/raviteja-padala/A-B_Testing/blob/main/AB%20test.png)
+
+
 * Steps in A/B Testing 
 > - Define Objective
 > - Construct Hypothesis
@@ -11,8 +14,11 @@
 > - Conduct A/B test and collect data
 > - Statistical significance of test and practical implications
 
+
 * Define a goal
 > Before we start testing, we need to have a clear and measurable goal that we want to achieve. By setting and tracking specific goals, we will have a clear direction on what we want to achieve, and we can also measure the performance and success of our test. For example, we might want to increase the number of sign-ups, sales, clicks, or engagement on your website. Our goal should be aligned with our business objectives and relevant to our audience.
+
+![](https://github.com/raviteja-padala/A-B_Testing/blob/main/steps%20to%20run%20AB%20test.png)
 
 * Construct Hypothesis
 > A hypothesis is a statement that predicts the outcome of an experiment. In A/B testing, a hypothesis is used to determine which variation of a page or element will perform better.
@@ -40,3 +46,6 @@ Some commomn, issues in A/B testing, metrics to track and hypothesis to test:
 | High Cart Abandonment   | Cart Abandonment Rate      | Offering free shipping will reduce cart abandonment           |
 | Low Retention Rates     | Retention Rate             | Implementing a loyalty program will increase retention        |
 | Low Customer Satisfaction | Net Promoter Score (NPS) | Improving the customer support process will increase satisfaction |
+
+
+![](https://github.com/raviteja-padala/A-B_Testing/blob/main/AB%20testing%20mistakes%20to%20avoid.png)
