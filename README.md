@@ -1,13 +1,13 @@
 # A-B_Testing
 
 
-* What is A/B testing?
+###  `What is A/B testing?`
 > A/B testing is a basic randomized control experiment.A/B testing—also called split testing or bucket testing—compares the performance of two versions of content to see which one appeals more to visitors/viewers. It tests a control (A) version against a variant (B) version to measure which one is most successful based on your key metrics. A/B testing is a conversion rate optimization (CRO) technique that businesses use to boost conversions.
 
 ![](https://github.com/raviteja-padala/A-B_Testing/blob/main/AB%20test.png)
 
 
-* Steps in A/B Testing 
+### `Steps in A/B Testing`
 > - Define Objective
 > - Construct Hypothesis
 > - Create control group and Test group
@@ -15,12 +15,12 @@
 > - Statistical significance of test and practical implications
 
 
-* Define a goal
+### `Define a goal`
 > Before we start testing, we need to have a clear and measurable goal that we want to achieve. By setting and tracking specific goals, we will have a clear direction on what we want to achieve, and we can also measure the performance and success of our test. For example, we might want to increase the number of sign-ups, sales, clicks, or engagement on your website. Our goal should be aligned with our business objectives and relevant to our audience.
 
 ![](https://github.com/raviteja-padala/A-B_Testing/blob/main/steps%20to%20run%20AB%20test.png)
 
-* Construct Hypothesis
+### `Construct Hypothesis`
 > A hypothesis is a statement that predicts the outcome of an experiment. In A/B testing, a hypothesis is used to determine which variation of a page or element will perform better.
 
 * A good hypothesis should be:
@@ -30,7 +30,7 @@
 > -> Testable. The hypothesis should be testable so that you can run an experiment to determine whether or not it is true. For example, you could run an A/B test where you show half of your visitors the headline "Sign up now!" and the other half the headline "Get started today!" and then track the conversion rates for each group.
 
 
-*  Control and Test group:
+### `Control and Test group:`
   > A/B testing involves comparing the performance of the test group(s) with the control group to evaluate the impact of the changes and make informed decisions based on the results. The control group represents the existing version or default option, while the test group(s) receive the modified versions or variations being tested.
 
 Some commomn, issues in A/B testing, metrics to track and hypothesis to test:
